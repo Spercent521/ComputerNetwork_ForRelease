@@ -3,7 +3,7 @@ lab/Lab2/*.pdf
 lab/Lab1/*.mp4
 lab/Lab2/*.mp4
 
-lab/RunAsTI/*
+lab/RunAsTI
 lab/eNSP_SetupV100R003C00SPC100.exe
 lab/VirtualBox-5.2.30-130521-Win.exe
 lab/WinPcap_4_1_3.exe
