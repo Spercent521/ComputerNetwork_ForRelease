@@ -8,3 +8,8 @@ lab/eNSP_SetupV100R003C00SPC100.exe
 lab/VirtualBox-5.2.30-130521-Win.exe
 lab/WinPcap_4_1_3.exe
 lab/Wireshark-win64-3.4.8.exe
+
+.DS_Store
+
+# Office 临时文件（~$ 开头的文件）
+~$*
