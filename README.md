@@ -22,6 +22,10 @@
 | lab/eNSP_SetupV100R003C00SPC100.exe | [华为官网](https://support.huawei.com/enterprise/zh/tool/ensp) | V100R003C00SPC100 | 542.42 MB | 华为eNSP网络模拟器 |
 | lab/WinPcap_4_1_3.exe | [WinPcap官网](https://www.winpcap.org/install/) | v4.1.3 | ~1 MB | Wireshark依赖的数据包捕获库 |
 
+## 课程设计
+
+-   见 [Spercent521/network-curriculum_design-CUG: CUG 计算机网课课程设计](https://github.com/Spercent521/network-curriculum_design-CUG)
+
 ## 使用说明
 
 1. Clone 本仓库后，根据上表下载所需的工具安装包
