@@ -13,3 +13,8 @@ lab/Wireshark-win64-3.4.8.exe
 
 # Office 临时文件（~$ 开头的文件）
 ~$*
+
+# 忽略课程设计的实现 避免嵌套git仓库
+课程设计/Project-Network/
+
+*.cfg
