@@ -24,7 +24,7 @@
 
 ## 课程设计
 
--   见 [Spercent521/network-curriculum_design-CUG: CUG 计算机网课课程设计](https://github.com/Spercent521/network-curriculum_design-CUG)
+-   见 [Spercent521/network-curriculum_design-CUG: CUG 计算机网络课程设计](https://github.com/Spercent521/network-curriculum_design-CUG)
 
 ## 使用说明
 
